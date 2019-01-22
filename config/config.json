@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "dev",
+    "password": null,
+    "database": "sencei",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "dev",
+    "password": null,
+    "database": "sencei",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "dev",
+    "password": null,
+    "database": "sencei",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
